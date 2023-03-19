@@ -1,0 +1,25 @@
+{
+  "name": "https-client-typescript",
+  "version": "1.0.0",
+  "description": "https client for nodejs, writed in typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/MrDonTacos/node-https-client.git"
+  },
+  "keywords": [
+    "https",
+    "nodejs",
+    "typescript",
+    "core"
+  ],
+  "author": "Saul CC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrDonTacos/node-https-client/issues"
+  },
+  "homepage": "https://github.com/MrDonTacos/node-https-client#readme"
+}
